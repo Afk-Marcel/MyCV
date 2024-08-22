@@ -24,13 +24,13 @@ some of my GitHub projects. The website is designed to provide visitors with ins
 
 ## Technologies Used
 
-•	HTML5: Structure and content of the website.
-•	CSS3: Styling and layout, including animations and responsive design.
-•	JavaScript: Interactivity and smooth scrolling.
-•	Bootstrap: Responsive grid system and components.
-•	Font Awesome: Icons for visual elements.
-•	jQuery: JavaScript library for animations and interactions.
-•	FullPage.js: Full-screen scrolling website sections.
+- HTML5: Structure and content of the website.
+- CSS3: Styling and layout, including animations and responsive design.
+- JavaScript: Interactivity and smooth scrolling.
+- Bootstrap: Responsive grid system and components.
+- Font Awesome: Icons for visual elements.
+- jQuery: JavaScript library for animations and interactions.
+- FullPage.js: Full-screen scrolling website sections.
 
 ## Installation
 
@@ -41,18 +41,18 @@ To view or modify this website locally:
   git clone https://github.com/Afk-Marcel/MyCV.git
   ```
 2. **Navigate to the project directory**:
-   ```
-   cd <project_directory>
-   ```
+  ```
+  cd <project_directory>
+  ```
 3. Open index.html in your web browser to view the website.
 
 ## Usage
 
-•	Home: Provides a brief introduction and overview of my career.
-•	Work: Lists my educational background and work experience.
-•	About: Highlights my skills and competencies.
-•	Portfolio: Showcases various projects with links to their respective GitHub repositories.
-•	Contact: Provides my contact information and a form for reaching out.
+- **Home**: Provides a brief introduction and overview of my career.
+- **Work**: Lists my educational background and work experience.
+- **About**: Highlights my skills and competencies.
+- **Portfolio**: Showcases various projects with links to their respective GitHub repositories.
+- **Contact**: Provides my contact information and a form for reaching out.
 
 ## License
 

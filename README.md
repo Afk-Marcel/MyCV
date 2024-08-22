@@ -17,7 +17,6 @@ some of my GitHub projects. The website is designed to provide visitors with ins
 ## Features
 
 •	Home Section: Introduction and overview of who I am and what I do.
-
 •	Education & Experience: Details about my educational background and work experience.
 •	About Me: Key skills and competencies.
 •	Portfolio: A collection of projects with links to GitHub repositories.

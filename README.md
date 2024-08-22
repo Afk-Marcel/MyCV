@@ -20,7 +20,7 @@ some of my GitHub projects. The website is designed to provide visitors with ins
 - Education & Experience: Details about my educational background and work experience.
 - About Me: Key skills and competencies.
 - Portfolio: A collection of projects with links to GitHub repositories.
-- Contact: Contact details and a form for reaching out.
+- Contact: Contact details and a form for reaching out. (not operational yet)
 
 ## Technologies Used
 

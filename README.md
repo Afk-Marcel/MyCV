@@ -11,7 +11,7 @@
 
 ## Overview
 
-This is a personal website that serves as a CV for Marcel Greyling. It includes detailed information about my skills, education, and experience, along with a portfolio showcasing 
+This is a personal website that serves as a CV. It includes detailed information about my skills, education, and experience, along with a portfolio showcasing 
 some of my GitHub projects. The website is designed to provide visitors with insights into my professional background and to serve as a platform for potential connections and opportunities.
 
 ## Features
